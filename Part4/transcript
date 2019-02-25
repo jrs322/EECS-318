@@ -1,0 +1,37 @@
+# vsim -c Testbench 
+# //  QuestaSim-64 6.5f Jun 16 2010 Linux 4.15.0-36-generic
+# //
+# //  Copyright 1991-2010 Mentor Graphics Corporation
+# //              All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND 
+# //  PROPRIETARY INFORMATION WHICH IS THE PROPERTY
+# //  OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS
+# //  AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading work.Testbench
+# Loading work.circuit4
+# Loading work.nbitCSA
+# Loading work.n_bitadder
+# Loading work.fulladder
+#                    0 00000000000110111     55 zzzzz00000001111 zzzzz00000000000
+#                   20 00000000000110110     54 zzzzz00000001100 zzzzz00000000010
+#                   40 00000000000110100     52 zzzzz00000000010 zzzzz00000001010
+#                   60 00000000000110001     49 zzzzz00000000001 zzzzz00000001000
+#                   80 00000000000101101     45 zzzzz00000000101 zzzzz00000000000
+#                  100 00000000000101000     40 zzzzz00000000000 zzzzz00000000000
+#                  120 00000000000100010     34 zzzzz00000000000 zzzzz00000000000
+#                  140 00000000000011011     27 zzzzz00000000000 zzzzz00000000000
+#                  160 00000000000010011     19 zzzzz00000000000 zzzzz00000000000
+#                  180 00000000000001010     10 zzzzz00000000000 zzzzz00000000000
+#                  200 00000000000000000      0 zzzzz00000000000 zzzzz00000000000
+#                  250 00000000000000011      3 zzzzz00000000011 zzzzz00000000000
+#                  300 00000000000000111      7 zzzzz00000000111 zzzzz00000000000
+#                  350 00000000000001100     12 zzzzz00000001100 zzzzz00000000000
+#                  400 00000000000010010     18 zzzzz00000001010 zzzzz00000001000
+#                  450 00000000000011001     25 zzzzz00000001101 zzzzz00000001100
+#                  500 00000000000100001     33 zzzzz00000001101 zzzzz00000001100
+#                  550 00000000000101010     42 zzzzz00000001101 zzzzz00000001100
+#                  600 00000000000110100     52 zzzzz00000001101 zzzzz00000001100
+# ** Note: $finish    : part4tb.v(37)
+#    Time: 800 fs  Iteration: 0  Instance: :Testbench

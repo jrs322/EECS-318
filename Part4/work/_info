@@ -1,0 +1,72 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/jrs322/EECS318/Part4
+vcircuit4
+!s100 _0B10RWb32zBf:YNVWV<l1
+IeTPY]B;54BoDjcG]Vl8gX2
+VN9;B:`42YVi20k>51@6:^2
+Z1 w1542055349
+Z2 8part4circuit.v
+Z3 Fpart4circuit.v
+L0 3
+Z4 OL;L;6.5f;42
+r1
+!s85 0
+31
+Z5 o-L mtiAvm -L mtiOvm -L mtiUPF
+vfulladder
+!s100 B9GYgSed;@;K2_amXYh[Q2
+Iz[P]>MP]C0V?NgKJUC7U`0
+Vo>hfnSVWTKl[]8M?nG4LS2
+Z6 w1542043485
+Z7 8fulladder.v
+Z8 Ffulladder.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+vn_bitadder
+!s100 bh`NjB6FoRN1LUzJ6z>LR3
+IWGCW;<ED]z:lgF<B_BIZ^3
+VhSoDfha7SKJ3Fkzmg;2RC3
+R6
+R7
+R8
+L0 12
+R4
+r1
+!s85 0
+31
+R5
+vnbitCSA
+!s100 he^b[9PPeY_^D6<Fzo_PS2
+IDzSWSP=VIaj;g0Y^R__;`3
+VgWN7HU3dl9jVGn89Pic[C1
+R1
+R2
+R3
+L0 24
+R4
+r1
+!s85 0
+31
+R5
+nnbit@c@s@a
+vTestbench
+!s100 6EgZZ5k_65ElO4Ka:W27j1
+IAb6S]TfRn:NGF7X;XSjb91
+VGdUiEZgaMiVEi@bgHJeE13
+w1542055851
+8part4tb.v
+Fpart4tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+n@testbench
